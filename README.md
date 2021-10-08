@@ -1,5 +1,5 @@
 # SpotifyGeneratePlaylist
-A simple script that takes a specified playlist on Youtube, and generates a Spotify playlist based on the song in your playlist.
+A simple Python script that takes a specified playlist on Youtube, and generates a Spotify playlist based on the song in your playlist.
 
 ## Technologies
 * [Youtube Data API v3]
